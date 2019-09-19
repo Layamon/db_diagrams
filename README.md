@@ -4,3 +4,6 @@
 > This work has primarily been completed by:
 > * Jeremy Cole ([jeremycole](http://github.com/jeremycole/))
 > * Davi Arnaut ([darnaut](http://github.com/darnaut/))
+
+It seems that the origin diagrams is based on 5.6, and has some error with 5.7(8.0);
+I will update some new diagrams with 5.7 or 8.0 when I have read some part of the code.
