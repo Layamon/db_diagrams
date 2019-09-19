@@ -7,3 +7,5 @@
 
 It seems that the origin diagrams is based on 5.6, and has some error with 5.7(8.0);
 I will update some new diagrams with 5.7 or 8.0 when I have read some part of the code.
+
+except mysql/innodb, this repo will append some other system, such as postgresql/network/os and so on
