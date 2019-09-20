@@ -5,7 +5,4 @@
 > * Jeremy Cole ([jeremycole](http://github.com/jeremycole/))
 > * Davi Arnaut ([darnaut](http://github.com/darnaut/))
 
-It seems that the origin diagrams is based on 5.6, and has some error with 5.7(8.0);
-I will update some new diagrams with 5.7 or 8.0 when I have read some part of the code.
-
-except mysql/innodb, this repo will append some other system, such as postgresql/network/os and so on
+eems that the original diagrams from xxx/xxx are based on MySQL 5.6. Updates in MySQL 5.7(8.0) are not covered. Recently I've been working on the later version, and I'm willing to add some informative diagrams. Besides MySQL (Innodb), this repo will also present diagrams for other system fundamentals, like PostgreSQL, Network and OS.
