@@ -49756,7 +49756,7 @@ Total usable space: 16,338 bytes.}</string>
 
 \f0\fs36 \cf0 Page Type (2)}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -85541,7 +85541,7 @@ The page directory grows "downwards" from the end of the page.}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>15</integer>
+		<integer>21</integer>
 		<key>Frame</key>
 		<string>{{-0, -0}, {1920, 1057}}</string>
 		<key>ShowInfo</key>
@@ -85553,7 +85553,7 @@ The page directory grows "downwards" from the end of the page.}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-7.124604012671595, 0}, {703.69165786694839, 519}}</string>
+		<string>{{0, 0}, {705.49450549450557, 520.32967032967042}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
